@@ -87,4 +87,5 @@ let finances = [
     ['Feb-2017', 671099]
     ];
  const totalMonths = 86;
+console.log(totalMonths);
  
