@@ -87,23 +87,5 @@ let finances = [
     ['Feb-2017', 671099]
     ];
 
-     finances = [["12/2/2020", 1500000], ["16/6/2021", -10000]]
-finances [0]
-finances [1]
-
-for (let i =0; < finances.length; i++) {
-    console.log(finances[i])
-}
-
-for (let i = 0; i < finances.length; i++) {
-    console.log(finances[i][1])
-}
-
-for (let i = 0; < finances.length; i++) {
-    total = finances[i][1]
-}
-
-for (let i = 0; i < finances.length; i++) {
-    total += finances[i][1]
-}
+ 
 
