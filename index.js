@@ -89,3 +89,8 @@ let finances = [
 
      finances = [["12/2/2020", 1500000], ["16/6/2021", -10000]]
 finances [0]
+finances [1]
+
+for (let i =o; < finances.length; i++) {
+    console.log(finances[i])
+}
