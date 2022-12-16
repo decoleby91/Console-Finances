@@ -87,6 +87,6 @@ let finances = [
     ['Feb-2017', 671099]
     ];
 
-     const total number of months in dataset
-    let months = finances.length
-    console.log(finances.length)
+     let finances = [["12/2/2020", 1500000], ["16/6/2021", -10000]]
+
+     
