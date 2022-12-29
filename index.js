@@ -91,39 +91,39 @@ let finances = [
     console.log();
 
     let greatest === '';
-    console.log();
+    console.log(greatest);
 
     let netChangeSum ===  ;
-    console.log();
+    console.log(netChangeSum);
 
     let months === '';
-    console.log();
+    console.log(months);
 
     let average === ;
-    console.log();
+    console.log(average);
 
     let previousMonth === '';
-    console.log();
+    console.log(previousMonth);
 
     let netArray === '' ;
-    console.log();
+    console.log(netArray);
 
     let greatestIndex ===  ;
-    console.log();
+    console.log(greatestIndex);
 
     let leastIndex === ;
-    console.log();
+    console.log(leastIndex);
 
     let netChangeSum === ;
-    console.log();
-    
+    console.log(netChangeSum);
+
     let analysis === '';
-    console.log();
+    console.log(analysis);
 
     let sumChange === ;
-    console.log();
+    console.log(sumChange);
 
     let change === ;
-    console.log();
+    console.log(change);
  
 
