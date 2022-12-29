@@ -90,6 +90,7 @@ You are required to submit BOTH of the following for review:
 
 ### Link to the deployed application
 https://decoleby91.github.io/Console-Finances/
+https://github.com/decoleby91/Console-Finances
 
 ## Copyright
 
