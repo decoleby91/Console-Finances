@@ -88,6 +88,9 @@ You are required to submit BOTH of the following for review:
 
 ---
 
+### Link to the deployed application
+https://decoleby91.github.io/Console-Finances/
+
 ## Copyright
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
