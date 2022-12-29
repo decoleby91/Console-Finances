@@ -88,17 +88,42 @@ let finances = [
     ];
 
     let least === '';
+    console.log();
+
     let greatest === '';
+    console.log();
+
     let netChangeSum ===  ;
+    console.log();
+
     let months === '';
+    console.log();
+
     let average === ;
+    console.log();
+
     let previousMonth === '';
+    console.log();
+
     let netArray === '' ;
+    console.log();
+
     let greatestIndex ===  ;
+    console.log();
+
     let leastIndex === ;
+    console.log();
+
     let netChangeSum === ;
+    console.log();
+    
     let analysis === '';
+    console.log();
+
     let sumChange === ;
+    console.log();
+
     let change === ;
+    console.log();
  
 
