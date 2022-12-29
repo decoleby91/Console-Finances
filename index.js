@@ -87,18 +87,18 @@ let finances = [
     ['Feb-2017', 671099]
     ];
 
-    let least = 
-    let greatest = 
-    let netChangeSum = 
-    let months = 
-    let average = 
-    let previousMonth = 
-    let netArray = 
-    let greatestIndex = 
-    let leastIndex = 
-    let netChangeSum = 
-    let analysis =
-    let sumChange =
-    let change =
+    let least ===
+    let greatest ===
+    let netChangeSum ===
+    let months ===
+    let average ===
+    let previousMonth ===
+    let netArray ===
+    let greatestIndex ===
+    let leastIndex ===
+    let netChangeSum ===
+    let analysis ===
+    let sumChange ===
+    let change ===
  
 
